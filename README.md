@@ -24,7 +24,7 @@
 
 ➣ Instant Support by https://t.me/H2ski 🌟
 
-# 📜 Includes Manual file "How to set up Drainer"
+# 📜 Includes Manual file "How to set up Fake Minting Page"
 
 # `🚫 Disclaimer :`
 ⚠️ - Anyone who wastes my time will be blocked without hesitation and without notice ⚠️
