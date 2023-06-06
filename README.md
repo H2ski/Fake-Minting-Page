@@ -1,4 +1,4 @@
-# 🖼️ Seaport/Permit Drainer by H2ski 🌟
+# 🖼️ Fake Minting Page by H2ski 🌟
 
 # 🔨 WHAT IS A FAKE MINITING PAGE ?
 
@@ -11,7 +11,7 @@
 ## - 🛒 Take a look at my entire TG store 🌟 for prices on this and many other products! 
 # (https://t.me/CreditByH2ski)
 
-## - 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram 🌟 
+## - 🗑️ To buy the Fake Minting Page, contact me on Telegram 🌟 
 # (https://t.me/H2ski)
 
 # 💡 FEATURES :
