@@ -1,17 +1,10 @@
-# 🛳️ ETH FAKE MINITING PAGE by H2ski 🌟
+# 🖼️ Seaport/Permit Drainer by H2ski 🌟
 
-# 💎 WHAT IS A DRAINER?
+# 🔨 WHAT IS A FAKE MINITING PAGE ?
 
-## It's a website that you host in order to steal cryptocurrencies and assets (ERC20, ERC721, ETH & NFTs) from the wallets (MetaMask Trust Wallet and many more) that connect to it, the plus of the Seaport Drainer is that there is no alert when signing the contract and it manages to steal more than just ETH, it just steals EVERYTHING that is linked to the account
+## It is a website that you host in order to steal ETH from the wallets (MetaMask, Trust Wallet and many others) that connect to it, the advantage of the fake mint page is that with it copying a collection that will soon run its mint in a way is very simple. It is also very cheap which is ideal to start in the cryptocurrency scam.
 
-## ⚙️ 2 Designs :
-
-- Fake Tornado.cash page 
-
-![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355612285513838/tornado.cash.jpg)
-- Fake Airdrop customizable page 
-
-![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115363883507527730/airdrop1.jpg)![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355683941007411/airdrop.jpg)
+![image](https://cdn.discordapp.com/attachments/775727248799694859/1014852148720320592/unknown.png)
 
 # `💸 PRICES :`
 
@@ -23,11 +16,10 @@
 
 # 💡 FEATURES :
 
-- [x] Seaport Methods (Drains all NFTs in one signature)
-- [x] Permit Methods for cryptocurrencies (ERC20, ERC721, ETH)
-- [x] Telegram notifications/logs ✈️
+- [x] Transfert Methods for ETH
 - [x] Trust Wallet, Metamask & Other Available
-- [x] Undetected by Metamask
+- [x] Full Customizable Design
+- [x] Anti Phishing Detections & No Red Alert in Metamask 🏠
 - [x] Mobile version/PC version of website (responsive design)
 
 ➣ Instant Support by https://t.me/H2ski 🌟
